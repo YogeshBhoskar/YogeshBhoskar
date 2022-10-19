@@ -33,7 +33,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <br/>
 <div align="center">
-  <img src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-angularjs-Development-Company-new-york.gif" width="60%" height="300"/>
+  <img src="https://www.leidos.com/sites/g/files/zoouby166/files/styles/scale_narrow/public/Leidos_Softskills.gif?itok=lnbIVtrq" width="70%" height="300"/>
 </div>
 
 
